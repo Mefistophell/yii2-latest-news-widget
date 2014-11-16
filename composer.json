@@ -1,0 +1,12 @@
+{
+    "name": "nill/yii2-latest-news-widget",
+    "description": "Yii2-Start Latest News Widget",
+    "authors": [
+        {
+            "name": "Nill Mefistophell",
+            "email": "asklepiy@i.ua"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
