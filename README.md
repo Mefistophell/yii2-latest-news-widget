@@ -50,11 +50,11 @@ Configuration
 ```
 'nill/widget-latest-news' => 
 array (
-    'name' => 'nill/widget-latest-news',
+    'name' => 'nill/yii2-latest-news-widget',
     'version' => '0.1.0.0',
     'alias' => 
     array (
-        '@nill/widgetapn' => $vendorDir . '/nill/widget-latest-news',
+        '@nill/widgetapn' => $vendorDir . '/nill/yii2-latest-news-widget',
     ),
 ),
 ```
